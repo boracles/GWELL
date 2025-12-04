@@ -1,0 +1,51 @@
+# ----------------------------------------------------------
+# Unity Core
+# ----------------------------------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+SysInfo/
+
+# Unity Cache
+obj/
+*.mdb
+*.pdb
+
+# Auto-generated
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.sln.iml
+
+# TextMesh Pro auto-gen
+Assets/TextMesh Pro*/Resources/*
+
+# Addressables cache
+Assets/AddressableAssetsData/*/platforms/
+Assets/StreamingAssets/aa/*
+
+# URP 템포러리 셰이더 캐시
+Assets/URP*/Shaders*/**/*.cache
+*.shadergraph.importer
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.zip
+
+# Misc
+*.meta.tmp
