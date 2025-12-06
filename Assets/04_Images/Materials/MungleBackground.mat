@@ -110,7 +110,7 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _BlurAmount: 0.01
     - _BlurRadius: 0.005
-    - _Breath: 0.9954881
+    - _Breath: 0.73879397
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
